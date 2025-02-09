@@ -1,0 +1,2 @@
+node_modules
+dist       # Or whatever your build output directory is named.DS_Store  # For macOS.env       # For environment variables (if you use them)
